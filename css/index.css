@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f2f2f2;
+}
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 40px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+h1 {
+    text-align: center;
+}
+h5{
+    text-align: center;
+    color: chocolate;
+}
+label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+input[type="text"],input[type="email"],select, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+input[type="radio"], input[type="checkbox"] {
+    margin-right: 10px;
+}
+.button-container {
+    display: flex;
+    /*text-align: center;  ボタンを中央揃え */
+    margin-top: 20px; /* ボタン間のスペースを調整 */
+}
+.button {
+    width: 48%; /* 送信ボタンとリセットボタンを横並びにするために幅を調整 */
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 2%; /* ボタン間のスペースを調整 */
+}
+
+.reset-button {
+    background-color: #f44336; /* リセットボタンの背景色を赤色に変更 */
+}
+
+.button:hover {
+    background-color: #45a049;
+}
+
+.reset-button:hover {
+    background-color: #ea3225; /* リセットボタンの背景色を赤色に変更 */
+}
