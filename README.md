@@ -23,7 +23,7 @@
 
 1. リポジトリをクローンします:
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/nishikina/works4.git
     ```
 
 2. survey_db.sqlもダウンロードしてテーブルを作成してください。
