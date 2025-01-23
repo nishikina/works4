@@ -36,3 +36,9 @@
 5. メール送信機能を使用するには、ダウンロードした後に `ebichan.png` のファイルのパスをスクリプト内で指定してください。
 
 7. メール送信機能は **Outlook (classic)** で検証済みです。他のメールクライアントでは動作しない可能性があります。
+
+## スクリーンショット
+![image](https://github.com/user-attachments/assets/029aae6a-966f-43bb-9233-2dcf83497dc4)
+![image](https://github.com/user-attachments/assets/7e3c5c34-1ae5-4409-a9f1-60ec986cdad6)
+
+
